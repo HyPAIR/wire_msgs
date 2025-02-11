@@ -6,6 +6,8 @@ Service definitions for wire-related behaviour in [turtlebot_house_sim](https://
 This package requires no dependencies beyond those included in a standard ROS 2 installation.
 Place this package into the `src` directory of your workspace and run `colcon build --symlink-install` to build.
 
+This package has been tested on ROS 2 Humble.
+
 ## Maintainer
 
 This repository is maintained by:
